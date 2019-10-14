@@ -1,6 +1,6 @@
 # VINS-Fusion
 ##Modify
-**Mywork:**
+**My Contribution:**
 - fast_relocalization: 0             # useful in real-time and large project
 
 
