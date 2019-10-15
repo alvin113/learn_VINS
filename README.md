@@ -1,7 +1,14 @@
 # VINS-Fusion
-##Modify
+## Modify
 **My Contribution:**
-- fast_relocalization: 0             # useful in real-time and large project
+ADD fast relocalization mode in VINS_Fusion, congigure parameter "fast_relocalization" in your configuration file:
+```
+ fast_relocalization: 0             # 0 slam mode, 1 fast relocalization mode
+```
+
+
+
+
 
 
 ## An optimization-based multi-sensor state estimator
