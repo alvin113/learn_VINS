@@ -1,7 +1,7 @@
 # VINS-Fusion
 ## Modify
 **My Contribution:**
-Add fast relocalization mode in VINS_Fusion, congigure parameter "fast_relocalization" in your configuration file:
+Add fast relocalization mode in VINS_Fusion, configure parameter "fast_relocalization" in your configuration file:
 ```
  fast_relocalization: 0             # 0 slam mode, 1 fast relocalization mode
 ```
